@@ -1,5 +1,5 @@
 
-An e-commerce app for headphones could have the following components:
+An e-commerce app for headphones with these following components:
 
 Homepage - This component will display the best-selling headphone product with a hover animation effect. Additionally, there will be an ongoing sale banner to entice users to make a purchase.
 
